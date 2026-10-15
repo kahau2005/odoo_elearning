@@ -146,16 +146,7 @@ stateDiagram-v2
 
 Giao diện tạo khóa học hiển thị như sau:
 
-```
-+-----------------------------------------------------------------------------------+
-|  Save / Discard                 [ Go to Website ]  [ Attendees: 0 ]  [ Finished: 0 ]|
-+-----------------------------------------------------------------------------------+
-|  Course Title: [ Nhập tên khóa học tại đây...                                  ]  |
-|  Tags: [ Thẻ phân loại... ]           [ Ảnh bìa Khóa học (Camera icon) ]          |
-+-----------------------------------------------------------------------------------+
-|  [ Content ]  [ Description ]  [ Options ]  [ Karma ]                             |
-+-----------------------------------------------------------------------------------+
-```
+![Giao diện tạo khóa học](https://drive.google.com/uc?export=view&id=1xSL7B48AtiZdsv1KCoPnBjo2lT0nO3qj)
 
 ---
 
@@ -215,6 +206,8 @@ Khóa học: Quy trình Vận hành Doanh nghiệp
 | Duration: [ 15 ] Phút       [ ] Allow Preview (Tích nếu cho học thử miễn phí)     |
 +-----------------------------------------------------------------------------------+
 ```
+![Giao diện tạo bài học](https://drive.google.com/uc?export=view&id=1yukIVnJPgWRfeLiJGZEmotKkELjMakgG)
+
 
 3. **Thiết lập các trường**:
    - **Content Title**: Tên bài học (ví dụ: `Tài liệu Hướng dẫn Quy trình Bán hàng`).
@@ -271,6 +264,7 @@ Nếu bạn không thực hiện bước này, học viên khi bấm vào bài h
 |  [ Copy link ]                                             [ Done ]   |
 +-----------------------------------------------------------------------+
 ```
+![Cấp quyền xem cho video](https://drive.google.com/uc?export=view&id=1ygybblynbIsgIIh2yEX9y1UbfxUNyhHK)
 
 Đường link vừa copy sẽ có dạng:  
 `https://drive.google.com/file/d/1A2B3C4D5E6F7G8H9I_XYZ/view?usp=sharing`
@@ -299,6 +293,8 @@ Nếu bạn không thực hiện bước này, học viên khi bấm vào bài h
 | Duration: [ 10 ] Phút       [x] Allow Preview                                     |
 +-----------------------------------------------------------------------------------+
 ```
+![Up link video](https://drive.google.com/uc?export=view&id=108N3Qx9L_soITUimMW7Adxb_WydeMG3V)
+
 
 ---
 
