@@ -135,12 +135,8 @@ stateDiagram-v2
 1. Đăng nhập vào giao diện Odoo với tài khoản quản trị (Admin) hoặc người quản lý đào tạo.
 2. Trên màn hình chính, nhấp chọn icon ứng dụng **eLearning**.
 
-```
-[ Menu chính Odoo ]
-  ├── CRM
-  ├── Contacts
-  └── [ eLearning ]  <--- Nhấp chọn vào đây
-```
+![Chọn App Elearning](https://drive.google.com/uc?export=view&id=1dKoh0tDqnBQXXHBK69lEljSECGD8GGWX)
+
 
 ---
 
