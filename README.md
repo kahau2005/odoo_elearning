@@ -332,6 +332,7 @@ TRƯỚC KHI BẤM (Khóa học đang ẩn):
 SAU KHI BẤM (Khóa học đã mở):
 [ (x) Published   ]  <--- Màu xanh lá (HOÀN TẤT)
 ```
+![Public khóa học](https://drive.google.com/uc?export=view&id=1EdFEXDRbySqOVACahs3a-sqalgBkW9ms)
 
 ---
 
